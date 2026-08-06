@@ -15,3 +15,20 @@ A Java-based Number Guessing Game where the user tries to guess a randomly gener
 - Java
 
 ## Project Structure
+Number-Guessing-Game-Java
+│
+└── src
+└── Main.java
+
+## How to Run
+
+Compile the file:
+javac Main.java
+
+Run the program:
+java Main
+
+
+## Author
+
+Deviya Bai
