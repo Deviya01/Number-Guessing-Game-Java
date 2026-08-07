@@ -11,7 +11,6 @@ A Java-based Number Guessing Game where the user tries to guess a randomly gener
 - Result display
 
 ## Technologies Used
-
 - Java
 
 ## Project Structure
