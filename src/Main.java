@@ -35,7 +35,6 @@ public class Main {
                 System.out.println("You guessed the number in " + attempts + " attempts");
 
             }
-
         } while (guess != number);
 
 
